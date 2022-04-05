@@ -2,7 +2,7 @@
 
 
 
-###Genel Olarak birkaç aydır yaptığım c ödevlerimi yükledim.
+Genel Olarak birkaç aydır yaptığım c ödevlerimi yükledim.
                     
 Dosya adı:  | Açıklama
 ------------- | -------------
