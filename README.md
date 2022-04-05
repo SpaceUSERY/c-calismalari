@@ -10,6 +10,6 @@ asal.c  | Asal Sayı saydırma veya girilen sayının asalını bulan uygulamac�
 palindrom.c | 1-1000 Arası palindrom sayıları sayan programcık.
 
 
-###Bazı dosyalardan birkaç tane olabilir:
+Bazı dosyalardan birkaç tane olabilir:
 
 > Bazıları çalışmıyor olabilir: Bakmak Lazım Tabii!
