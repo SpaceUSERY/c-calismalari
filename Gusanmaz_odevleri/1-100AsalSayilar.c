@@ -11,12 +11,18 @@ int main(int argc, char const *argv[])
                 printci=i;
             }     
         }
+       if (printci==0)
+       {
+           printf("Bu Sayi asal : %d\n",i);
+       }
+       /*
         if (printci!=0)
         {
            // printf("Bu sayi asal degil %d\n",printci);
         }else{
             printf("Bu Sayi asal : %d\n",i);
         }
+        */
     }
     return 0;
 }
