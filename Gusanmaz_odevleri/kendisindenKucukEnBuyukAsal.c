@@ -5,7 +5,7 @@ int main(int argc, char const *argv[])
     printf("giris yapipiniz : ");
     scanf("%d", &alinanSayi);
     int sonuc;
-    for (int i = 2; i <= alinanSayi; i++) // geldiğimiz sayi;
+    for (int i = 2; i < alinanSayi; i++) // geldiğimiz sayi;
     {
         int printci = 0;
         for (int j = (i - 1); j >= 2; j--) // geldiğimiz sayıdan 2'ye  kadar geriye doğru saymaya başladık.
